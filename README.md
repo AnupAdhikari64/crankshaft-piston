@@ -5,7 +5,7 @@ A 3D CAD model of a multi-cylinder internal combustion engine rotating assembly,
 ## Overview
 This project features a complete bottom-end mechanical assembly consisting of 4 pistons, connecting rods, and crankshaft. It demonstrates proficiency in part modeling, assembly constraints, and mechanical systems design tailored for mechanical engineering.
 
-## demonstration
+## Demonstration
 ![Project Demo](crankshaft-piston.gif)
 
 ## Info on Materials & Components
@@ -37,4 +37,4 @@ The repository contains the following FreeCAD (`.FCStd`) component and assembly 
 - ### Option 2 (View the model online)
 *any online viewer can be used, I personally have tested this on [thecadhub.com](https://thecadhub.com/free-tools/freecad-web/)*
 1. Head over to [The CAD Hub FreeCAD Web Viewer](https://thecadhub.com/free-tools/freecad-web/).
-2. Upload all individual `.FCStd`` part files along with `Assembly.FCStd`` simultaneously into the workspace so the assembly can correctly resolve its file links.
+2. Upload all individual `.FCStd` part files along with `Assembly.FCStd` simultaneously into the workspace so the assembly can correctly resolve its file links.
